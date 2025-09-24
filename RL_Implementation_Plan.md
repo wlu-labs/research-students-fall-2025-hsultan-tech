@@ -14,7 +14,7 @@
 
 ---
 
-## **DECISION MATRIX: What to Implement NOW**
+## **DECISION MATRIX: What to Implement**
 
 ### **1. RL Algorithm Choice** 
 | Algorithm | Pros | Cons | Recommendation |
@@ -270,7 +270,7 @@ PPO_CONFIG = {
 
 ---
 
-## **WHAT YOU WILL COMPLETE ONCE YOU GET THE CODE**
+## **IMPLEMENTATION TIMELINE**
 
 **WEEK 1**: Implement Steps 1-3 above
 1. **Day 1-2**: Build R2R environment wrapper
@@ -282,8 +282,8 @@ PPO_CONFIG = {
 2. **Day 11-12**: Add enhanced reward function
 3. **Day 13-14**: Run validation experiments and collect metrics
 
-**Focus on getting something working end-to-end**, even if simple. Once you have a basic RL agent navigating (even poorly), we can iterate and improve rapidly.
+**Focus on getting something working end-to-end**, even if simple. Once I have a basic RL agent navigating (even poorly), I can iterate and improve rapidly.
 
 **Key Philosophy**: Start simple, make it work, then make it better. Don't try to implement everything at once - build incrementally and validate each component.
 
-Once you receive the implementation code, you will have a complete working RL system ready for immediate experimentation and iteration.
+Once the implementation code is complete, I will have a complete working RL system ready for immediate experimentation and iteration.
